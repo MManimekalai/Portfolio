@@ -42,7 +42,7 @@ const About = () => {
               </p>
               <a
                 className="text-decoration-none"
-                href="https://drive.google.com/file/d/1Nf_hhGstI399w8tbI185-k6rFV2rceUB/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1O6JyucdoD4EqBQheJqXKnRJE86vEc4yy/view?usp=drive_link"
                 rel="noreferrer"
                 target="_blank"
               >
@@ -51,7 +51,7 @@ const About = () => {
               <br />
               <a
                 className="text-decoration-none"
-                href="https://drive.google.com/file/d/1_T_wWvgYrPRNISI0afNA74G9f9ebCRc5/view?usp=sharing"
+                href="https://drive.google.com/drive/folders/1WL4enq4NN0pn6ncQWlxujR6vnPvcVwdm?usp=drive_link"
                 rel="noreferrer"
                 target="_blank"
               >
