@@ -28,7 +28,7 @@ function NavBarComp() {
             </Nav.Link>
             <Nav.Link
               className="active text-light mx-3"
-              href="https://drive.google.com/file/d/1Nf_hhGstI399w8tbI185-k6rFV2rceUB/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1O6JyucdoD4EqBQheJqXKnRJE86vEc4yy/view?usp=drive_link"
               target="_blank"
             >
               Resume
