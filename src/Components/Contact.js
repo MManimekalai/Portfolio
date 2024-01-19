@@ -22,7 +22,7 @@ const Contact = () => {
       onSubmit:async(message)=>{
         try {
           setState("Please wait...")
-          await fetch("https://portfolio-backend-vert.vercel.app/",{
+          await fetch("https://portfolio-backend-x5k2.onrender.com/",{
           method:"POST",
           body:JSON.stringify(message),
           headers:{

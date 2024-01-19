@@ -101,7 +101,16 @@ html {
   justify-content: space-around;
 }
 .btn{
-  white-space: nowrap;
+  /* white-space: nowrap; */
+  color: #fff;
+    font-size: 16px;
+    margin-right: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.4s ease-in-out;
+    background: 'linear-gradient(90deg, rgb(0, 123, 255), rgb(234, 0, 255))'
 }
 
 @media only screen and (max-width:700px) {

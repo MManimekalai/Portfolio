@@ -43,7 +43,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Frontend Repo
+                  FE Repository
                 </a>
                 <a
                   href="https://github.com/MManimekalai/WebScraper-Backend"
@@ -51,7 +51,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Backend Repo
+                  BE Repository
                 </a>
               </div>
             </div>
@@ -86,7 +86,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Frontend Repo
+                  FE Repository
                 </a>
                 <a
                   href="https://github.com/MManimekalai/ZenClassQueryResolving-Backend"
@@ -94,7 +94,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Backend Repo
+                  BE Repository
                 </a>
               </div>
             </div>
@@ -129,7 +129,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Frontend Repo
+                  FE Repository
                 </a>
                 <a
                   href="https://github.com/MManimekalai/NotesApp-Backend"
@@ -137,7 +137,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Backend Repo
+                  BE Repository
                 </a>
               </div>
             </div>
@@ -172,7 +172,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Frontend Repo
+                  FE Repository
                 </a>
                 <a
                   href="https://github.com/MManimekalai/Soulmate_Backend"
@@ -180,7 +180,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Backend Repo
+                  BE Repository
                 </a>
               </div>
             </div>
