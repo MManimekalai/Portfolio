@@ -35,7 +35,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Visit
+                  Live Demo
                 </a>
                 <a
                   href="https://github.com/MManimekalai/WebScraper-Frontend"
@@ -43,7 +43,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Source Code FE
+                  Frontend Repo
                 </a>
                 <a
                   href="https://github.com/MManimekalai/WebScraper-Backend"
@@ -51,7 +51,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Source Code BE
+                  Backend Repo
                 </a>
               </div>
             </div>
@@ -78,7 +78,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Visit
+                  Live Demo
                 </a>
                 <a
                   href="https://github.com/MManimekalai/ZenClassQueryResolving-Frontend"
@@ -86,7 +86,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Source Code FE
+                  Frontend Repo
                 </a>
                 <a
                   href="https://github.com/MManimekalai/ZenClassQueryResolving-Backend"
@@ -94,7 +94,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Source Code BE
+                  Backend Repo
                 </a>
               </div>
             </div>
@@ -121,7 +121,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Visit
+                  Live Demo
                 </a>
                 <a
                   href="https://github.com/MManimekalai/NotesApp-Frontend"
@@ -129,7 +129,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Source Code FE
+                  Frontend Repo
                 </a>
                 <a
                   href="https://github.com/MManimekalai/NotesApp-Backend"
@@ -137,7 +137,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Source Code BE
+                  Backend Repo
                 </a>
               </div>
             </div>
@@ -164,7 +164,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Visit
+                  Live Demo
                 </a>
                 <a
                   href="https://github.com/MManimekalai/Soulmate_FrontEnd"
@@ -172,7 +172,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Source Code FE
+                  Frontend Repo
                 </a>
                 <a
                   href="https://github.com/MManimekalai/Soulmate_Backend"
@@ -180,7 +180,7 @@ const Projects = () => {
                   target="_blank"
                   rel="noreferrer"
                 >
-                  Source Code BE
+                  Backend Repo
                 </a>
               </div>
             </div>
