@@ -1,6 +1,6 @@
 import React from "react";
 import { useTypewriter } from "react-simple-typewriter";
-import profileImage from "../Assets/Picture1.jpg"; // Import the image
+import profileImage from "../Assets/Passport_Pic.jpg"; 
 
 const ImagePage = () => {
   const [typei] = useTypewriter({
