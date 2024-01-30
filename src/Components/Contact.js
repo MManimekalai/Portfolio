@@ -116,7 +116,7 @@ const Contact = () => {
           <i className="fa-brands fa-linkedin" />
           <br />
           <a
-            href="https://www.linkedin.com/in/abdulwasim-shagulhamedhu-562a441a6"
+            href="https://www.linkedin.com/in/manimekalai-murugesan"
             target="_blank"
             rel="noreferrer"
           >
